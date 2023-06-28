@@ -1,0 +1,15 @@
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/bin/Debug/net7.0/InventoryManagementSystem
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/bin/Debug/net7.0/InventoryManagementSystem.deps.json
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/bin/Debug/net7.0/InventoryManagementSystem.runtimeconfig.json
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/bin/Debug/net7.0/InventoryManagementSystem.dll
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/bin/Debug/net7.0/InventoryManagementSystem.pdb
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/InventoryManagementSystem.csproj.AssemblyReference.cache
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/InventoryManagementSystem.AssemblyInfoInputs.cache
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/InventoryManagementSystem.AssemblyInfo.cs
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/InventoryManagementSystem.csproj.CoreCompileInputs.cache
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/InventoryManagementSystem.dll
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/refint/InventoryManagementSystem.dll
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/InventoryManagementSystem.pdb
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/InventoryManagementSystem.genruntimeconfig.cache
+/Users/enordsveen001/Documents/C#/InventoryManagementSystem/obj/Debug/net7.0/ref/InventoryManagementSystem.dll
